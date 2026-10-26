@@ -1,9 +1,2 @@
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lempac/Lempac/output/snake.svg" alt="Snake animation" />
-
-###
+## About me
+Hell, if i would know
